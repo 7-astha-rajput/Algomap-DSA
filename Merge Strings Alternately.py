@@ -21,6 +21,3 @@ class Solution:
             s.append(word2[b])
             b += 1
         return ''.join(s)
-        
-                                                        
-   
